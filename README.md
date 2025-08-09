@@ -21,5 +21,5 @@
 ---
 
 
-![To-Do List Preview](screenshot.png)
+![code](code.png)
 [watch demo](demo.mp4)
